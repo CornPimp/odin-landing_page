@@ -1,2 +1,4 @@
 # odin-landing_page
-Odin Project 2
+Eh scratch everything from that last readme lol
+
+ok so this time my objective is to replicate a website with my only reference being a png image of what it looks like and some of the aesthetic info like the fonts used. This shouldn't be *too* difficult as i'm far for comfortable with flexbox now, and the previous excercies were basically the same thing as this just a little easier. funnily enough, i wasnt able to get the flexbox scaling to work for my entire webpage with code from the solutions verbatim, and i switched my os and other shit a few times and that wasnt the problem. i spent like 10 minutes researching online for how to fix this problem, only to find 0 fucking answers. as a last ditch effort, i asked fucking chat gpt, who instantly gave me a solution that worked perfectly everywhere. so that's fucking great i guess. i think it's pretty interesting that the modern html boilerplate involve having divs inside of divs for the sole purpose of it being inside a flexbox. RWS for the win, guys. ok, that's enough-let's get into this bitch
